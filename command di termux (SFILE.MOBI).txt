@@ -1,0 +1,10 @@
+command di termux:
+
+pkg update (enter)
+y (enter)
+pkg upgrade
+y (enter)
+setup-termux-storage (enter)
+>izinkan
+pkg install python (enter)
+y (enter)
